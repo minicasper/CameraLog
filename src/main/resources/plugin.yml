@@ -1,0 +1,8 @@
+name: Log
+version: '${project.version}'
+main: casper.camera.Log
+api-version: 1.15
+commands:
+  screenshot:
+    description: screenshot complete!
+    usage: /screenshot
